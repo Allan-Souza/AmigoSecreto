@@ -2,8 +2,6 @@
 
 Aplicação web **mobile-first** de Amigo Secreto, projetada especialmente para ser usada no celular por qualquer pessoa da família — **inclusive pessoas idosas**, com **alto contraste**, **letras grandes (base `18px`)**, **botões amplos (56px+)** e **linguagem acolhedora sem termos técnicos**.
 
-Pronta para deploy na **Vercel** com persistência em banco de dados relacional **PostgreSQL** (Neon, Supabase ou Prisma Postgres via Vercel Marketplace).
-
 ---
 
 ## ✨ Funcionalidades Principais
